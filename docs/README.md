@@ -18,5 +18,6 @@ Spin up docsify:
 
 ``` docsify serve docs ```
 
-# Contribute:
-It would be great to extend this project, please get involved and share
+# How to Contribute:
+I'd like to see this project act as living documentation.  
+Please feel free to contribute

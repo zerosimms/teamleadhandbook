@@ -6,6 +6,10 @@ To get started, clone the project:
 
 ``` git clone https://github.com/zerosimms/teamleadhandbook.git ```
 
+Grab all the modules:  
+
+``` npm i ```
+
 Install docsify globally:  
 
 ``` npm i docsify-cli -g ```
@@ -13,3 +17,6 @@ Install docsify globally:
 Spin up docsify:
 
 ``` docsify serve docs ```
+
+# Contribute:
+It would be great to extend this project, please get involved and share
